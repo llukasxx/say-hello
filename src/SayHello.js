@@ -5,8 +5,7 @@ class SayHello extends Component {
   render() {
     return (
       <div>
-        Say hello to:
-        <input />
+        Say hello to: <input />
         <br />
         <Hello />
       </div>
